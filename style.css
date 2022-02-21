@@ -1,0 +1,81 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.conteiner{
+    width: 85%;
+    margin: auto;
+}
+.header{
+    width: 100%;
+    float: left;
+    background-color: aqua;
+
+}
+.logo-part{
+    background-color: aqua;
+    width: 33.33%;
+    float: left;
+    
+    
+}
+.menu-part{
+    background-color: red;
+    width: 33.33%;
+    float: left;
+}
+.search-part{
+    background-color: blue;
+    width: 33.33%;
+    float: left;
+}
+.hero{
+    width: 100%;
+    background-color: black;
+    color: white;
+    float: left;
+
+}
+.writting-part{
+    width: 50%;
+    float: left;
+
+}
+.img-part{
+    width: 20%;
+    float: left;
+
+}
+.about{
+      width: 100%;
+      float: left;
+}
+.conteiner{
+    width: 80%;
+    margin: auto;
+}
+.part-one{
+    background-color: blue;
+    height: 200px;
+    width: 25%;
+    float: left;
+
+
+}
+.part-two{ 
+    background-color: rgb(241, 218, 11);
+    height: 200px;
+    width: 50%;
+    float: left;
+
+}
+.part-three{
+    background-color: blue;
+    height: 200px;
+    width: 25%;
+    float: left;
+}
+h1{
+    color: blue;
+}
